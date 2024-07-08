@@ -48,8 +48,8 @@ The process begins by retrieving transactions via job APIs. It then branches int
 * [LinkedIn](https://www.linkedin.com/in/snehika-acharya)
 
 #### Sachin
-* [GitHub]
-* [LinkedIn]
+* [GitHub](https://www.linkedin.com/in/sachin-m99)
+* [LinkedIn](https://github.com/SachinM44)
 
 #### Lokesh Prasad
 * [GitHub](https://github.com/LOKESHPRASAD12)
